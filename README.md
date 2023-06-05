@@ -1,2 +1,2 @@
-# tor-website
-My tor website
+# Website
+Building a tor website (BETA)
